@@ -1,0 +1,110 @@
+    body{
+       
+    }
+.header {
+    padding-left: 70px;
+  width: 1400px;  
+   height: 200px;
+   
+   
+}
+    .progress{
+
+  width: 400px;
+  
+    }
+    button{
+      padding-left: 50px;  
+        
+    }
+    .donate{
+        
+        width: 400px;
+        height: 100px;
+        padding-right: 250px;
+        padding-top: 20px;
+        
+        margin-right: 500px;
+        
+        
+       
+        
+    }
+    .subscribe{
+        width: 400px;
+        height: 100px;
+        
+        float: right;
+        margin-top: 100px;
+        padding-top: 60px;
+
+        
+    }
+   
+   .input-group{
+    width: 1330px; 
+    margin-left: 70px;
+   }
+    .form-control{
+        
+
+        width: 500px;
+    }
+    .navbar{
+        width: 1330px; 
+        margin-left: 70px;
+        padding-left: 100px;
+        
+    }
+    .wel
+    {
+        margin-left: 70px;
+
+
+        
+    }
+    h3{
+
+        background-color: rgb(218, 199, 199);
+        width: 1000px;
+        
+    }
+    .gal
+    {
+        margin-left: 70px;
+
+
+        
+    }
+    .adout{
+        width: 400px;
+        float: left;
+        
+        margin-left:  300px;
+    }
+    p{
+        font-size: 24px;    }
+       
+        #foot{
+            background-color: rgb(236, 218, 218);
+            width: 100%;
+            border-top:  5px solid blue;
+            overflow: auto;
+            
+        }
+        .face{
+            float: left;
+            margin-bottom: 50px;
+            width: 400px;
+            margin-left: 40px;
+            
+        }
+        .about{
+          width: 1330;
+        margin-left: 70px;
+        margin-right: 70px;
+  
+        }
+        
+    
+    
